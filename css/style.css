@@ -6,8 +6,7 @@ body {
 .nav-bar {
     height: 70px;
     width: 100%;
-    background-color: yellow;
-    /*background-color: rgb(9, 61, 109, 0.5);*/
+    background-color: rgb(9, 61, 109, 0.5);
     position: fixed;
     top: 0;
     z-index: 1;
